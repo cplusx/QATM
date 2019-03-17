@@ -10,4 +10,4 @@ tensorflow=1.9.0
 TODO
 
 ## Run OTB dataset in paper
-See `run_all_OTB.ipynb`
+See [`run_all_OTB.ipynb`](./run_all_OTB.ipynb)

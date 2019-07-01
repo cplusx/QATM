@@ -1,4 +1,4 @@
-# **QATM**: [QATM: Quality-Aware Template Matching for Deep Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Cheng_QATM_Quality-Aware_Template_Matching_for_Deep_Learning_CVPR_2019_paper.pdf)
+# [**QATM**: Quality-Aware Template Matching for Deep Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Cheng_QATM_Quality-Aware_Template_Matching_for_Deep_Learning_CVPR_2019_paper.pdf)
 <img src="https://www.isi.edu/images/isi-logo.jpg" width="300"/> <img src="http://cvpr2019.thecvf.com/images/CVPRLogo.png" width="300"/> 
 
 ***
@@ -75,4 +75,5 @@ See [`run_single_sample.ipynb`](./run_single_sample.ipynb)
 See [`run_all_OTB.ipynb`](./run_all_OTB.ipynb)
 
 ## For implementations in other DNN libraries
-### [Pytorch](https://github.com/kamata1729/QATM_pytorch.git)
+
+- [Pytorch](https://github.com/kamata1729/QATM_pytorch.git)
